@@ -1,0 +1,5 @@
+{
+  "name": "Nexus AI Agent Platform",
+  "description": "A professional dashboard to configure, train, and deploy business-specific AI assistants using Gemini models.",
+  "requestFramePermissions": []
+}
